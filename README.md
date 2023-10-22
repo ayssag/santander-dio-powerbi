@@ -6,7 +6,7 @@ As tarefas que compõem o desafio estão registradas em capturas de tela e em ar
 
 - [x] 1. Criação de uma instância na Azure para MySQL
 
-- [x] 2. Criar o Banco de dados com base disponível no GitHub
+- [x] 2. Criar o Banco de dados com base disponível no [GitHub](https://github.com/julianazanelatto/power_bi_analyst)
 
 - [x] 3. Integração do PowerBI com MySQL no Azure
 
