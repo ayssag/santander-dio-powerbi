@@ -5,10 +5,16 @@ Aplicar as etapas de coleta, obtenção e transformação de dados com Power BI 
 As tarefas que compõem o desafio estão registradas em capturas de tela e em arquivos submetidos nesse repositório.
 
 - [x] 1. Criação de uma instância na Azure para MySQL
+      
+![Imagem não encontrada](desafio-bi-dio-Microsoft-Azure.png)
 
 - [x] 2. Criar o Banco de dados com base disponível no [GitHub](https://github.com/julianazanelatto/power_bi_analyst)
+      
+![Imagem não encontrada](desafio-bi-dio-workbench.png)
 
 - [x] 3. Integração do PowerBI com MySQL no Azure
+
+![Imagem não encontrada](desafio-bi-dio-powerbi.png)
 
 - [x] 4. Verificar problemas na base a fim de realizar a transformação de dados
 
@@ -37,4 +43,10 @@ As colunas desnecessárias foram removidas.
 11. Em seguida, as colunas foram agrupadas pela operação contar linhas. Com o auxílio da query gerada na Linguagem M, subtraiu-se uma unidade de 
 cada linha da nova coluna com o número de colaboradores por gente, já que haviam linhas com redundâncias (o gerente constava como gerente de si mesmo).
 A tabela gerada foi nomeada employee_manager.
-12. Para que se gerasse o gráfico de colaboradores por departamento, criou-se a tabela employee_departament de forma semelhante à employee_management. 
+12. Para que se gerasse o gráfico de colaboradores por departamento, criou-se a tabela employee_departament de forma semelhante à employee_management.
+
+## Relatório Publicado
+![Imagem não encontrada](desafio-bi-dio-publicado.png)
+
+## Feeback
+Tive dificuldade em separar os dados por região. Apesar de ter entendido a contextualização da base de dados, não consegui fazer o tratamento devido para que esses dados ficassem devidamente representados no relatório. Reconheço que o relatório gerado não reflete a realidade dos dados. Apresento as habilidades que adquiri durante o curso Processando e Transformando Dados com PowerBI durante o prazo que me foi possível. 
